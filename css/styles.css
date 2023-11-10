@@ -1,1 +1,21 @@
-h1{color:teal}
+.list {list-style-type: none;}
+.link {text-decoration: none;}
+button {cursor: pointer;}
+logo {color: var(--IRIS, #4D5AE5);
+  font-family: font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;}
+  menu-link {color: var(--SLATE, #434455);
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    /* 150% */
+    letter-spacing: 0.02em;}
+    .menu-link:hover,
+    .menu-link:focus{color:#404BBF}
