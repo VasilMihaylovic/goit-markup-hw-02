@@ -54,7 +54,7 @@ button {cursor: pointer;}
 .button-order:focus {
   background: var(--OCEAN, #404BBF);
 }
-.title-texst-feature {color: var(--NAVY-BLUE, #2E2F42);
+.title-text-feature {color: var(--NAVY-BLUE, #2E2F42);
     /* Header 3 */
     font-size: 20px;
     font-weight: 500;
@@ -106,5 +106,29 @@ button {cursor: pointer;}
               line-height: 1.5;
               /* 150% */
               letter-spacing: 0.02em;}
+              .page-footer{background: var(--NAVY-BLUE, #2E2F42);}
+              .logo-part-footer{color: var(--CLOUD, #F4F4FD);
+                font-family: Raleway;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 0.03em;
+                /* 116.667% */
+                letter-spacing: 0.54px;
+                text-transform: uppercase;}
+              .logo-footer{color: var(--IRIS, #4D5AE5);
+                font-family: Raleway;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 1.16;
+                /* 116.667% */
+                letter-spacing: 0.03em;
+                text-transform: uppercase;}
+              .text-footer{color: var(--CLOUD, #F4F4FD);
+                /* Body */
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                /* 150% */
+                letter-spacing: 0.02;}
 
     
