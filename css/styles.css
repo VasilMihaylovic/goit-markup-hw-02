@@ -40,7 +40,6 @@ font-family: Raleway, sans-serif;
          .page-contacts:focus{color: #404BBF}
 .page-solutions {background: var(--NAVY-BLUE, #2E2F42);}
 .page-solutions-head{color: var(--WHITE, #FFF);
-  text-align: center;
   /* Header 1 */
   font-size: 56px;
   font-weight: 700;
@@ -49,8 +48,7 @@ font-family: Raleway, sans-serif;
   letter-spacing: 0.02em;}
 button {cursor: pointer;}
 .button-order{border-radius: 4px;
-  background: var(--IRIS, #4D5AE5);
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);}
+  background: var(--IRIS, #4D5AE5);}
 .button-order {color: var(--WHITE, #FFF);
   /* Button Text */
   font-size: 16px;
