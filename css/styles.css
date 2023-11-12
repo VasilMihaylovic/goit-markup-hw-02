@@ -30,6 +30,9 @@ font-family: Raleway, sans-serif;
     letter-spacing: 0.02em;}
     .menu-link:hover,
     .menu-link:focus{color:#404BBF}
+
+    .menu-addres{font-style: normal;}
+
         .page-contacts{ color: var(--SLATE, #434455);
           /* Body */
           font-size: 16px;
