@@ -1,18 +1,26 @@
 .list {list-style-type: none;}
 .link {text-decoration: none;}
 button {cursor: pointer;}
-body{font-family: Roboto, sans-serif;}
+body{font-family: Roboto, sans-serif; color:#434455;}
+body{background-color: #FFFFFF}
 .logo {color: var(--IRIS,
         #4D5AE5);
     font-family: Raleway, sans-serif;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.17;
     /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
   }
-.logo-part {color: var(--NAVY-BLUE, #2E2F42);}
+.logo-part {color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;}
   /* Body */
  .menu-link {font-size: 16px;
     font-weight: 400;
@@ -78,6 +86,7 @@ button {cursor: pointer;}
   /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;}
+.page-team-list{background-color: #FFFFFF}
     .team-name{color: var(--NAVY-BLUE, #2E2F42);
       /* Header 3 */
       font-size: 20px;
@@ -129,6 +138,6 @@ button {cursor: pointer;}
                 font-weight: 400;
                 line-height: 1.5;
                 /* 150% */
-                letter-spacing: 0.02;}
+                letter-spacing: 0.02em;}
 
     
