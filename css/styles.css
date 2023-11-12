@@ -22,8 +22,9 @@ font-family: Raleway, sans-serif;
   letter-spacing: 0.03em;
   text-transform: uppercase;}
   /* Body */
- .menu-link {font-size: 16px;
-    font-weight: 400;
+ .menu-link {color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;}
@@ -41,6 +42,7 @@ font-family: Raleway, sans-serif;
 .page-solutions {background: var(--NAVY-BLUE, #2E2F42);}
 .page-solutions-head{color: var(--WHITE, #FFF);
   /* Header 1 */
+  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
